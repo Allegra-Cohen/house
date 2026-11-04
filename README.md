@@ -1,16 +1,20 @@
 # house
 
 ## Basic idea
-A memory-palace tool for **storing and curating** documents.
-You can assign Cards (documents or notes) to Loci (pictures, the default being houses)
-that light up and expand their Cards when clicked. Cards either belong to a Locus or
-are untethered. The expansion of a Locus is physics-based, i.e., Cards and Loci can
-shove one another aside (excellent idea taken from Amelia Wattenberger.)
-You can also draw directly on the canvas if you have a tablet or iPad to hook up.
+A memory-palace tool for curating documents with drawing capabilities and spatially-aware,
+limited machine assistance.
+
+Documents and notes are Cards. You can assign Cards to Loci (pictures, the default being 
+some houses I drew) that light up and expand their Cards when clicked. Cards either belong 
+to a Locus or are untethered. The expansion of a Locus is physics-based, i.e., Cards and 
+Loci can shove one another aside (excellent idea taken from Amelia Wattenberger.)
+You can also draw directly on the canvas if you have a tablet or iPad to hook up (I
+have been using the Sidecar feature on an iPad paired with an Apple Pencil.)
 There's also a toolbox with one tool hooked up where you can lasso a set of
 Cards and ask an LLM to find other resources that are related to what you circled.
 The thought behind that tool is that you ought to be able to invoke assistance from
-the machine without entering into a dialogue that could skew your early thinking.
+the machine without entering into a dialogue that could skew your early thinking,
+i.e., communicating your mental model entirely through spatial organization.
 
 Documentation below is mostly Claudish.
 
