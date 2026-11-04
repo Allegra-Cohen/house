@@ -13,8 +13,11 @@ have been using the Sidecar feature on an iPad paired with an Apple Pencil.)
 There's also a toolbox with one tool hooked up where you can lasso a set of
 Cards and ask an LLM to find other resources that are related to what you circled.
 The thought behind that tool is that you ought to be able to invoke assistance from
-the machine without entering into a dialogue that could skew your early thinking,
-i.e., communicating your mental model entirely through spatial organization.
+the machine without entering into a dialogue that could skew your early thinking.
+That is, instead of conversing with the machine, you can communicate and append to
+your mental model entirely through spatial organization.
+
+For a demo of this tool, see https://www.seewhatuthink.com/posts/demo-time.
 
 Documentation below is mostly Claudish.
 
